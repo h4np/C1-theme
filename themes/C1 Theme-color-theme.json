@@ -36,32 +36,32 @@
 		{
 			"scope": "string",
 			"settings": {
-				"foreground": "#99aadd"
+				"foreground": "#a7b4da"
 			}
 		},
 		{
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#99aadd"
+				"foreground": "#a7b4da"
 			}
 		},
 		{
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#99aadd"
+				"foreground": "#a7b4da"
 			}
 		},
 		{
 			"scope": "constant.character, constant.other, variable.other.constant",
 			"settings": {
-				"foreground": "#99aadd",
+				"foreground": "#a7b4da",
 				"fontStyle": "bold"
 			}
 		},
 		{
 			"scope": "variable, support.other.variable",
 			"settings": {
-				"foreground": "#aaaaff",
+				"foreground": "#9595ff",
 				"fontStyle": ""
 			}
 		},
@@ -81,7 +81,7 @@
 		{
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#99aadd",
+				"foreground": "#a7b4da",
 				"fontStyle": "italic"
 			}
 		},
@@ -116,7 +116,7 @@
 		{
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#aaaaff",
+				"foreground": "#9595ff",
 				"fontStyle": "italic"
 			}
 		},
@@ -130,7 +130,7 @@
 		{
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#aaaaff",
+				"foreground": "#9595ff",
 				"fontStyle": ""
 			}
 		},
@@ -144,14 +144,14 @@
 		{
 			"scope": "support.constant",
 			"settings": {
-				"foreground": "#99aadd",
+				"foreground": "#a7b4da",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "support.class",
 			"settings": {
-				"foreground": "#aaaaff"
+				"foreground": "#9595ff"
 			}
 		},
 		{
@@ -170,7 +170,7 @@
 		{
 			"scope": "meta.property-name,support.type.property-name",
 			"settings": {
-				"foreground": "#aaaaff"
+				"foreground": "#9595ff"
 			}
 		},
 		{
@@ -182,20 +182,20 @@
 		{
 			"scope": "meta.object-literal.key",
 			"settings": {
-				"foreground": "#99aadd"
+				"foreground": "#a7b4da"
 			}
 		},
 		{
 			"scope": "variable.other.readwrite.alias",
 			"settings": {
-				"foreground": "#99aadd",
+				"foreground": "#a7b4da",
 				"fontStyle": "bold"
 			}
 		},
 		{
 			"scope": "variable.language.this,support.variable.object,support.variable.dom",
 			"settings": {
-				"foreground": "#aaaaff"
+				"foreground": "#9595ff"
 			}
 		},
 		{
