@@ -1,0 +1,32 @@
+{
+	"name": "c1-theme",
+	"displayName": "C1 Theme",
+	"description": "My own theme for VSCode",
+	"publisher": "dft",
+	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"keywords": [
+		"theme",
+		"dark theme",
+		"dft",
+		"purple"
+	],
+	"engines": {
+		"vscode": "^1.71.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "C1 Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/C1 Theme-color-theme.json"
+			}
+		]
+	}
+}
