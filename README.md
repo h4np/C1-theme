@@ -1,1 +1,3 @@
-My purple theme
+## C1 theme
+
+![](image.jpg)
